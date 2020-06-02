@@ -1,8 +1,8 @@
-# pinterest_layout
+# Pinterest Layout  
 
 Using grid layout, i made a fully responsive example
 
-## Fully Responsive
+## Fully Responsive 📱
 
 Views on iPhone, iPad and Pc.
 
