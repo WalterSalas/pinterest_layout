@@ -7,4 +7,4 @@ Using grid layout, i made a fully responsive example
 
 Views on iPhone, iPad and Pc.
 
-![view](https://imgur.com/6fnVMsf.jpg)
+![view](https://imgur.com/WZXZXC4.jpg)
