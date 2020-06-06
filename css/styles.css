@@ -41,14 +41,13 @@
     list-style: none;
 }
 
-.menu li:hover{
+.menu li:hover {
     cursor: pointer;
     color: white;
     background-color: black;
 }
 
-.input{
-
+.input {
     background-image: url("/img/search-icon-png-2.png");
     background-repeat: no-repeat;
     background-position: 16px;
@@ -79,8 +78,8 @@
     background: #f2f2f2;
 }
 
-.item img { 
-    height: 100%;  
+.item img {
+    height: 100%;
     width: 100%;
     object-fit: cover;
     border-radius: 16px;
@@ -90,10 +89,10 @@
     grid-row-end: span 3;
 }
 
-.level-2{
+.level-2 {
     grid-row-end: span 2;
 }
 
-.level-3{
+.level-3 {
     grid-row-end: span 1;
 }
